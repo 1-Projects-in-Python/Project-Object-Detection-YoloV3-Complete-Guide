@@ -1,4 +1,4 @@
-# Object-Detection-YoloV3--Complete-guide-
+# Object-Detection-YoloV3-Complete-Guide
 This is a complete Guide of using Yolo_V3 for object detection examples
 
 # Introduction
